@@ -1,0 +1,9 @@
+POST  http://localhost/bd-appqr/v1/qr/save-qr.php
+Content-Type: "application/json"
+
+{
+  "description":"iiiiiiiiiiiiiiiiiiii", 
+  "name_qr":"hi", 
+  "color_qr":"red", 
+  "created_by":21
+}

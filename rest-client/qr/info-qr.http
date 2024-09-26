@@ -1,0 +1,6 @@
+GET http://localhost/bd-appqr/v1/qr/info-qr.php
+Content-Type: "application/json"
+
+{
+  "name_qr":"a"
+}

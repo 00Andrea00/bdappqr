@@ -1,0 +1,7 @@
+PUT  http://localhost/bd-appqr/v1/user/change-role.php
+Content-Type: "application/json"
+
+{
+    "email": "daniel@gmail.com",
+    "role": "admin"
+}

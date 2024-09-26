@@ -1,0 +1,6 @@
+GET http://localhost/bd-appqr/v1/user/info-user.php
+Content-Type: "application/json"
+
+{
+  "email":"ruben@gmail.com"
+}

@@ -1,0 +1,9 @@
+POST  http://localhost/bd-appqr/v1/soporte.php
+Content-Type: "application/json"
+
+{
+    "nombre":"paco",
+    "email": "amor@gmail.com",
+    "asunto":"hola",
+    "mensaje":"aaaaaaaaaaaaaaa"
+}

@@ -1,0 +1,7 @@
+POST  http://localhost/api-qr-tandem/v1/login-user.php
+Content-Type: "application/json"
+
+{
+    "email": "maria@gmail.com",
+    "password": "12345"
+}

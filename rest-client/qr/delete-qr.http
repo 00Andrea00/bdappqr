@@ -1,0 +1,6 @@
+DELETE  http://localhost/bd-appqr/v1/qr/delete-qr.php
+Content-Type: "application/json"
+
+{
+  "name_qr":"ha"
+}

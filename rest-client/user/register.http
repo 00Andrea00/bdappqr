@@ -1,0 +1,217 @@
+POST  https://andres.tandempatrimonionacional.eu/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"apapapa",
+  "email":"papapa@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"juan",
+  "email":"juan@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"paquito",
+  "email":"paquito@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"daniel",
+  "email":"daniel@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"kyllian",
+  "email":"kyllian@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"colson",
+  "email":"colson@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"ruben",
+  "email":"ruben@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"andrea",
+  "email":"andrea@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"escolastica",
+  "email":"escolastica@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"amaral",
+  "email":"amaral@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"lamine",
+  "email":"lamine@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"cucurella",
+  "email":"cucurella@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"carvajalinha",
+  "email":"carvajalinha@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"astrid",
+  "email":"astrid@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"cristian",
+  "email":"cristian@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"laporte",
+  "email":"laporte@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"alberto",
+  "email":"alberto@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"adrian",
+  "email":"adrian@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"niko",
+  "email":"niko@gmail.com",
+  "password":"12345"
+}
+
+###
+
+POST  http://localhost/bd-appqr/v1/user/register.php
+Content-Type: "application/json"
+
+{
+  "name":"rodri",
+  "email":"rodri@gmail.com",
+  "password":"12345"
+}

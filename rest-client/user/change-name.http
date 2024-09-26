@@ -1,0 +1,3 @@
+PUT  http://localhost/bd-appqr/v1/user/change-name.php
+Content-Type: "application/json"
+

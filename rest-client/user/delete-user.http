@@ -1,0 +1,6 @@
+DELETE http://localhost/bd-appqr/v1/user/delete-user.php
+Content-Type: application/json
+
+{
+  "email":"cucurella@gmail.com"
+}

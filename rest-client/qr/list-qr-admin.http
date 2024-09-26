@@ -1,0 +1,2 @@
+GET http://localhost/bd-appqr/v1/qr/list-qr-admin.php
+Content-Type: "application/json"

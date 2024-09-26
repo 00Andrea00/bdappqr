@@ -1,0 +1,6 @@
+GET https://vigas.tandempatrimonionacional.eu/vigas/v1/qr/list-qr.php
+Content-Type: "application/json"
+
+{
+  "user_id":1
+}
